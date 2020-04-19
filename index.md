@@ -1,4 +1,4 @@
-<div align="center"> ## Yo, data Scientists! </div align="center"> 
+<div align="center"> ## Yo, data Scientists! </div>
 
 You can use the [editor on GitHub](https://github.com/Jay-0520/Jay-0520.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

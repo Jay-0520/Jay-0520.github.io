@@ -3,9 +3,9 @@ title: "xxxx"
 author: "xxxx"
 
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
-permalink: /:title/
+#permalink: /:title/
 #lang: "en"
-date_format: "%B %d, %Y"
+#date_format: "%B %d, %Y"
 
 # Layout
 
@@ -17,8 +17,8 @@ show_title: true             # always keep the site title visible
 
 # Styling
 
-dark_header: false           # always keep the header dark
-minimal: false               # use simpler style
+#dark_header: false           # always keep the header dark
+#minimal: false               # use simpler style
 
 # Menu
 
@@ -27,11 +27,4 @@ navigation:
   #- {file: "postlist.md", icon: home}
   - {file: "about.md",  icon: address-card}
   - {file: "cv.md",  icon: cv}
-
-external:                    # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:yihsuan.lin0520@gmail.com"}
-  - {title: Linkedin, icon: linkedin, url: "https://linkedin.com/in/yihsuanlinphysics"}
-  - {title: Google_Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=Ob9KposAAAAJ&hl=en"}
-  - {title: Github, icon: github, url: "https://github.com/caseypie"}
-  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
